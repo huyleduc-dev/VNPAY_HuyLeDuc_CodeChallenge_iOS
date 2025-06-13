@@ -11,6 +11,7 @@ The goal of this app is to display a list of images from the Picsum API.
 
 ## Video demo app
 Check out the app demo here:
+
 [![Demo App](https://img.youtube.com/vi/hry51-SvgK8/0.jpg)](https://youtu.be/hry51-SvgK8)
 
 ## How to Run
